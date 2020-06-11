@@ -6,8 +6,6 @@ from collections import namedtuple
 from typing import Dict, Tuple, Set, FrozenSet
 from math import log
 
-ration = fuzz.ratio
-
 DUMP = "Sonstiges/"
 
 def normalize_filename(string):
